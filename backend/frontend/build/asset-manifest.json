@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2000f20c.chunk.css",
+    "main.js": "./static/js/main.ca59a63b.chunk.js",
+    "main.js.map": "./static/js/main.ca59a63b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.be5a40a3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.be5a40a3.js.map",
+    "static/js/2.14e13b0a.chunk.js": "./static/js/2.14e13b0a.chunk.js",
+    "static/js/2.14e13b0a.chunk.js.map": "./static/js/2.14e13b0a.chunk.js.map",
+    "static/js/3.0b1ce633.chunk.js": "./static/js/3.0b1ce633.chunk.js",
+    "static/js/3.0b1ce633.chunk.js.map": "./static/js/3.0b1ce633.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.2000f20c.chunk.css.map": "./static/css/main.2000f20c.chunk.css.map",
+    "static/js/2.14e13b0a.chunk.js.LICENSE.txt": "./static/js/2.14e13b0a.chunk.js.LICENSE.txt",
+    "static/media/Australian-Flag.16e05353.png": "./static/media/Australian-Flag.16e05353.png",
+    "static/media/audedit.e44bb7a7.png": "./static/media/audedit.e44bb7a7.png",
+    "static/media/cadedit.bec558c1.png": "./static/media/cadedit.bec558c1.png",
+    "static/media/canadian-flag.df58b67d.jpg": "./static/media/canadian-flag.df58b67d.jpg",
+    "static/media/chfedit.9d9a02f3.png": "./static/media/chfedit.9d9a02f3.png",
+    "static/media/euredit.e725a84b.png": "./static/media/euredit.e725a84b.png",
+    "static/media/euro-flag.91698831.jpg": "./static/media/euro-flag.91698831.jpg",
+    "static/media/nz-flag.1f1688fe.jpg": "./static/media/nz-flag.1f1688fe.jpg",
+    "static/media/nzdedit.6d8f7dbb.png": "./static/media/nzdedit.6d8f7dbb.png",
+    "static/media/uk-flag.eb1e8de2.jpg": "./static/media/uk-flag.eb1e8de2.jpg",
+    "static/media/ukedit.cb846c83.png": "./static/media/ukedit.cb846c83.png",
+    "static/media/usdedit.2c36138b.png": "./static/media/usdedit.2c36138b.png",
+    "static/media/yenedit.08ce0080.png": "./static/media/yenedit.08ce0080.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be5a40a3.js",
+    "static/js/2.14e13b0a.chunk.js",
+    "static/css/main.2000f20c.chunk.css",
+    "static/js/main.ca59a63b.chunk.js"
+  ]
+}
